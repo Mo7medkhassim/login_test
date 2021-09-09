@@ -82,8 +82,8 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         <div class="row">
 
 
-            <div  class="d-flex justify-content-center mx-5 mt-3">
-                <form method="post" action="" class="px-5" style="width: 100%; max-width: 350px;">
+            <div  class="d-flex justify-content-center mx-2 mt-3">
+                <form method="post" action="" class="" style="width: 100%; max-width: 350px;">
                     <div class="text-center mb-4">
                         <h1 class="h3 mb-3 font-weight-normal">Authenticate</h1>
                         <p>Use <code>admin</code> for both username and password.</p>
