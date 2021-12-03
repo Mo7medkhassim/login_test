@@ -214,8 +214,8 @@ button:focus{
 /* major */
 .major{
     min-height: calc(100vh);
-    /* background: url("../img/imgs/120134616_2759977150900805_7688534161263558130_o.jpg")  */
-    /* no-repeat ; */
+    background: url("../img/imgs/120134616_2759977150900805_7688534161263558130_o.jpg")  
+     no-repeat ; 
     height: 100%;
     width: 100%;
     max-height: 100vh;
